@@ -2,7 +2,7 @@
 Welcome to our telegram bot! This bot provides various functions and features to enhance your Telegram experience. The following commands will be available to you:
 
 ## Installation
-Follow these steps to install the necessary dependencies and run the tests:
+Follow these steps to install the necessary dependencies and run the bot:
 
 1. Install Python on your computer if it is not already installed.
 2. Install dependencies by running the pip install -r command requirements.txt .
@@ -32,7 +32,7 @@ ________________________________________________________________________________
 Добро пожаловать в нашего телеграмм бота! Этот бот предоставляет различные функции и возможности для повышения вашего опыта использования Телеграмма. Вам будут доступны следующие команды:
 
 ## Установка
-Выполните следующие шаги, чтобы установить необходимые зависимости и запустить тесты:
+Выполните следующие шаги, чтобы установить необходимые зависимости и запустить бота:
 
 1. Установите Python на ваш компьютер, если он ещё не установлен.
 2. Установите зависимости, выполнив команду pip install -r requirements.txt.
