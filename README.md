@@ -1,6 +1,12 @@
 ## Description
 Welcome to our telegram bot! This bot provides various functions and features to enhance your Telegram experience. The following commands will be available to you:
 
+## Installation
+Follow these steps to install the necessary dependencies and run the tests:
+
+1. Install Python on your computer if it is not already installed.
+2. Install dependencies by running the pip install -r command requirements.txt .
+
 ## Usage
 1. Add our bot to your telegram contact list: [@weatherprolite_bot](https://t.me/weatherprolite_bot).
 2. To start using the bot, just write him the name of your city (For example: novokuznetsk)
@@ -24,6 +30,12 @@ ________________________________________________________________________________
 
 ## Описание
 Добро пожаловать в нашего телеграмм бота! Этот бот предоставляет различные функции и возможности для повышения вашего опыта использования Телеграмма. Вам будут доступны следующие команды:
+
+## Установка
+Выполните следующие шаги, чтобы установить необходимые зависимости и запустить тесты:
+
+1. Установите Python на ваш компьютер, если он ещё не установлен.
+2. Установите зависимости, выполнив команду pip install -r requirements.txt.
 
 ## Использование
 1. Добавьте нашего бота в ваш список контактов в телеграмме: [@weatherprolite_bot](https://t.me/weatherprolite_bot).
